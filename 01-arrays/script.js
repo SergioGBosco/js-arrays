@@ -44,7 +44,7 @@ console.log(lewisIndex)
 // e salva il risultato nella variabile isTeachersEmpty
 let result
 
-if (teachers.lenght != 0) {
+if (teachers.length != 0) {
   result = `Ci sono vabiabili dentro l'array`
 }
 else {
